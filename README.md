@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganewlife</h1>
 <h3 align="center">A passionate Backend developer from Benin</h3>
 
-- 🔭 I’m currently working on [Gestion de scolaire](https://github.com/Ganewlife)
+- 🔭 I’m currently working on [AGRIPAST-SID](https://github.com/Ganewlife/agripast.git)
 
 - 🌱 I’m currently learning **System Administrator and IA**
 
-- 👯 I’m looking to collaborate on [AGRIPAST-SID](https://github.com/FACHINA/ciforq_project.git)
+- 👯 I’m looking to collaborate on [AGRIPAST-SID](https://github.com/Ganewlife/agripast.git)
 
 - 🤝 I’m looking for help with **Database and back-end**
 
