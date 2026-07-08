@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://fb.com/https:www.facebook.com/ganiou.idoleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https:www.facebook.com/ganiou.idoleke" height="30" width="40" /></a>
 </p>
+<a href="https://www.linkedin.com/in/ganiou-idoleke-748b50195" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/018/910/721/small/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" alt="https:www.facebook.com/ganiou.idoleke" height="30" width="40" /></a>
+</p>
 <p align="left">
 <a href=www.linkedin.com/in/ganiou-idoleke-748b50195" target="blank"><img align="center" src="<img width="160" height="148" alt="image" src="https://github.com/user-attachments/assets/2ab339a8-c490-4c26-b8f0-894bfc0cd84e" />
 " alt="www.linkedin.com/in/ganiou-idoleke-748b50195" height="30" width="40" /></a>
